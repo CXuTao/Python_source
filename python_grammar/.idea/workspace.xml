@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/文件操作/处理英文文本.py" line="7" mnemonic="8" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="792006bf-212c-4d45-bfed-dff6206fd969" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$5_.coverage" NAME="5.数据库删除操作 Coverage Results" MODIFIED="1554599550632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/python$15_Spinbox.coverage" NAME="15.Spinbox Coverage Results" MODIFIED="1552312088050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$12_Listbox.coverage" NAME="12.Listbox中下 Coverage Results" MODIFIED="1552312118696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$25_.coverage" NAME="25.鼠标点击事件 Coverage Results" MODIFIED="1552370553173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$server.coverage" NAME="server Coverage Results" MODIFIED="1554254249739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/QQ聊天/server" />
+    <SUITE FILE_PATH="coverage/python$4_xls.coverage" NAME="4.写入xls文件 Coverage Results" MODIFIED="1552564487185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/4.excel操作" />
+    <SUITE FILE_PATH="coverage/python$10_listbox.coverage" NAME="10.listbox Coverage Results" MODIFIED="1552312131625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$threading.coverage" NAME="threading Coverage Results" MODIFIED="1554253871830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib" />
+    <SUITE FILE_PATH="coverage/python$setup.coverage" NAME="setup Coverage Results" MODIFIED="1554881631244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop/pdfminer.six-master" />
+    <SUITE FILE_PATH="coverage/python$treeWindows.coverage" NAME="treeWindows Coverage Results" MODIFIED="1552442420296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter/实例一：treeFile" />
+    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1.添加文档 Coverage Results" MODIFIED="1554619176177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+    <SUITE FILE_PATH="coverage/python$Unittests_in_myTest_py.coverage" NAME="Unittests in myTest.py Coverage Results" MODIFIED="1552977148040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test_test_mySub.coverage" NAME="Unittests for myTest.Test.test_mySub Coverage Results" MODIFIED="1552977256409" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试" />
+    <SUITE FILE_PATH="coverage/python$11_.coverage" NAME="11.生产者与消费者 Coverage Results" MODIFIED="1554338165827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$redisPython.coverage" NAME="redis与Python交互 Coverage Results" MODIFIED="1554630542807" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redis" />
+    <SUITE FILE_PATH="coverage/python$1_docdocx.coverage" NAME="1.读取doc与docx文件 Coverage Results" MODIFIED="1552499661304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/3.word操作" />
+    <SUITE FILE_PATH="coverage/python$_mapreduce.coverage" NAME="高阶函数-map与reduce Coverage Results" MODIFIED="1552973808500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/python$2_opener.coverage" NAME="2.自定义opener Coverage Results" MODIFIED="1553841106204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫提升" />
+    <SUITE FILE_PATH="coverage/python$30_.coverage" NAME="30.相应特殊按键的控件 Coverage Results" MODIFIED="1552372488650" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$1_excel.coverage" NAME="1.读取excel文件 Coverage Results" MODIFIED="1552561933349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/4.excel操作" />
+    <SUITE FILE_PATH="coverage/python$8_.coverage" NAME="8.凑够一定数量才能执行 Coverage Results" MODIFIED="1554275971708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$29_.coverage" NAME="29.相应所有按键的事件 Coverage Results" MODIFIED="1552372092150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$22_.coverage" NAME="22.绝对布局 Coverage Results" MODIFIED="1552369855847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$3_re.coverage" NAME="3.re模块简介 Coverage Results" MODIFIED="1553047501930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则表达式" />
+    <SUITE FILE_PATH="coverage/python$2_CSV.coverage" NAME="2.写CSV文件 Coverage Results" MODIFIED="1552495806024" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/1.读写CSV文件" />
+    <SUITE FILE_PATH="coverage/python$client.coverage" NAME="client Coverage Results" MODIFIED="1554254271904" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/QQ聊天/client" />
+    <SUITE FILE_PATH="coverage/python$32_.coverage" NAME="32.组合按键事件 Coverage Results" MODIFIED="1552426076675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$18_Combobox.coverage" NAME="18.Combobox下拉控件 Coverage Results" MODIFIED="1552312071866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$treeFile.coverage" NAME="实例一：treeFile Coverage Results" MODIFIED="1552442753552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter/实例一：treeFile" />
+    <SUITE FILE_PATH="coverage/python$_filter.coverage" NAME="高阶函数-filter Coverage Results" MODIFIED="1552974631756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/python$3_IP.coverage" NAME="3.代理IP Coverage Results" MODIFIED="1553857957478" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫提升" />
+    <SUITE FILE_PATH="coverage/python$pdf2txt.coverage" NAME="pdf2txt Coverage Results" MODIFIED="1554883457050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Scripts" />
+    <SUITE FILE_PATH="coverage/python$2_client.coverage" NAME="2.client Coverage Results" MODIFIED="1554160830763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程/6.客户端与服务器数据交互" />
+    <SUITE FILE_PATH="coverage/python$26_.coverage" NAME="26.鼠标移动事件 Coverage Results" MODIFIED="1552371106226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$2_docdocx.coverage" NAME="2.读取doc与docx文件并写入其他文件 Coverage Results" MODIFIED="1552500676762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/3.word操作" />
+    <SUITE FILE_PATH="coverage/python$13_.coverage" NAME="13.爬取美团 Coverage Results" MODIFIED="1554088554001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$1_ppt.coverage" NAME="1.写ppt Coverage Results" MODIFIED="1552565339212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/5.写ppt" />
+    <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4.删除文档 Coverage Results" MODIFIED="1554620290053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+    <SUITE FILE_PATH="coverage/python$3_xlsxlsx.coverage" NAME="3.返回xls和xlsx的文件内容 Coverage Results" MODIFIED="1552563947132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/4.excel操作" />
+    <SUITE FILE_PATH="coverage/python$23_.coverage" NAME="23.相对布局 Coverage Results" MODIFIED="1552370063649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$11_Listbox.coverage" NAME="11.Listbox中 Coverage Results" MODIFIED="1552312125557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$Doctests_in_.coverage" NAME="Doctests in 文档测试 Coverage Results" MODIFIED="1552979803916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试/3.文档测试" />
+    <SUITE FILE_PATH="coverage/python$9_radiobutton.coverage" NAME="9.radiobutton单选框 Coverage Results" MODIFIED="1552312136013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$7_json.coverage" NAME="7.json数据解析 Coverage Results" MODIFIED="1553237397692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$13_listbox.coverage" NAME="13.listbox下 Coverage Results" MODIFIED="1552312097215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$1_CSV.coverage" NAME="1.读CSV文件 Coverage Results" MODIFIED="1552495364303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/1.读写CSV文件" />
+    <SUITE FILE_PATH="coverage/python$7_.coverage" NAME="7.信号量控制线程数量 Coverage Results" MODIFIED="1554275103765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$10_.coverage" NAME="10.线程通讯 Coverage Results" MODIFIED="1554337341303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$9_Ajax.coverage" NAME="9.抓取网页动态Ajax请求的数据 Coverage Results" MODIFIED="1553315664205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$14_Scale.coverage" NAME="14.Scale Coverage Results" MODIFIED="1552312092603" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$3_word.coverage" NAME="3.创建word文件 Coverage Results" MODIFIED="1552502233315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/3.word操作" />
+    <SUITE FILE_PATH="coverage/python$27_.coverage" NAME="27.鼠标释放事件 Coverage Results" MODIFIED="1552371370016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$31_.coverage" NAME="31.指定按键事件 Coverage Results" MODIFIED="1552372663355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test.coverage" NAME="Unittests for myTest.Test Coverage Results" MODIFIED="1552977381864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试" />
+    <SUITE FILE_PATH="coverage/python$3_client2.coverage" NAME="3.client2 Coverage Results" MODIFIED="1554160840868" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程/6.客户端与服务器数据交互" />
+    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3.更新文档 Coverage Results" MODIFIED="1554620198977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+    <SUITE FILE_PATH="coverage/python$6_get.coverage" NAME="6.get请求 Coverage Results" MODIFIED="1553232244102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$12_.coverage" NAME="12.线程调度 Coverage Results" MODIFIED="1554339301092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$20_.coverage" NAME="20.表格数据 Coverage Results" MODIFIED="1552368623610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$2_label.coverage" NAME="2.label控件 Coverage Results" MODIFIED="1552312145696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$19_Frame.coverage" NAME="19.Frame Coverage Results" MODIFIED="1552316119755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$24_.coverage" NAME="24.表格布局 Coverage Results" MODIFIED="1552370273937" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test_test_mySum.coverage" NAME="Unittests for myTest.Test.test_mySum Coverage Results" MODIFIED="1552977155007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试" />
+    <SUITE FILE_PATH="coverage/python$8_test.coverage" NAME="8.test Coverage Results" MODIFIED="1554555830028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test_test_getAge.coverage" NAME="Unittests for myTest.Test.test_getAge Coverage Results" MODIFIED="1552979266002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试/2.对类进行单元测试" />
+    <SUITE FILE_PATH="coverage/python$1_urllib.coverage" NAME="1.urllib爬取网页 Coverage Results" MODIFIED="1553169244074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test_test_init.coverage" NAME="Unittests for myTest.Test.test_init Coverage Results" MODIFIED="1552979202141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试/2.对类进行单元测试" />
+    <SUITE FILE_PATH="coverage/python$16_Menu.coverage" NAME="16.Menu Coverage Results" MODIFIED="1552312082918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$2_xlsx.coverage" NAME="2.返回xlsx整体数据 Coverage Results" MODIFIED="1552562655372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/4.excel操作" />
+    <SUITE FILE_PATH="coverage/python$17_Menu.coverage" NAME="17.Menu鼠标右键菜单 Coverage Results" MODIFIED="1552312077104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$5_ThreadLocal.coverage" NAME="5.ThreadLocal Coverage Results" MODIFIED="1554096825922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$6_.coverage" NAME="6.数据库查询操作 Coverage Results" MODIFIED="1554554520497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mysql" />
+    <SUITE FILE_PATH="coverage/python$client1.coverage" NAME="client1 Coverage Results" MODIFIED="1554254260289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/QQ聊天/client" />
+    <SUITE FILE_PATH="coverage/python$10__Queue.coverage" NAME="10.进程间通信-Queue Coverage Results" MODIFIED="1553674276304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/2.进程" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="处理英文文本 Coverage Results" MODIFIED="1556174575213" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/文件操作" />
+    <SUITE FILE_PATH="coverage/python$21_.coverage" NAME="21.树状数据 Coverage Results" MODIFIED="1552369596608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$5_re.coverage" NAME="5.re模块深入 Coverage Results" MODIFIED="1553152131055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/正则表达式" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1552312048864" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python$_sorted.coverage" NAME="高阶函数-sorted Coverage Results" MODIFIED="1552975778179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/函数" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test_test_mySun.coverage" NAME="Unittests for myTest.Test.test_mySun Coverage Results" MODIFIED="1552977378452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试" />
+    <SUITE FILE_PATH="coverage/python$3_button.coverage" NAME="3.button Coverage Results" MODIFIED="1552312141880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$9_.coverage" NAME="9.定时线程 Coverage Results" MODIFIED="1554276182320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程" />
+    <SUITE FILE_PATH="coverage/python$2_.coverage" NAME="2.查询文档 Coverage Results" MODIFIED="1554620093135" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/mongodb" />
+    <SUITE FILE_PATH="coverage/python$1_Q.coverage" NAME="1.冒充飞Q Coverage Results" MODIFIED="1553575288473" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/网络编程/UDP模型/1.冒充飞Q" />
+    <SUITE FILE_PATH="coverage/python$12_QQ.coverage" NAME="12.爬取网络中的QQ Coverage Results" MODIFIED="1553866390094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/爬虫" />
+    <SUITE FILE_PATH="coverage/python$Doctest_mySun.coverage" NAME="Doctest mySun Coverage Results" MODIFIED="1552979742072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试/3.文档测试" />
+    <SUITE FILE_PATH="coverage/python$PDF.coverage" NAME="读取PDF文件 Coverage Results" MODIFIED="1554917025255" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/office文件操作/2.PDF操作" />
+    <SUITE FILE_PATH="coverage/python$Unittests_for_myTest_Test__1_.coverage" NAME="Unittests for myTest.Test (1) Coverage Results" MODIFIED="1552979119136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/单元测试/2.对类进行单元测试" />
+    <SUITE FILE_PATH="coverage/python$28_.coverage" NAME="28.进入事件 Coverage Results" MODIFIED="1552371515626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tkinter" />
+    <SUITE FILE_PATH="coverage/python$1_server.coverage" NAME="1.server Coverage Results" MODIFIED="1554160816949" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/进程线程/3.线程/6.客户端与服务器数据交互" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="75">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/1.urllib爬取网页.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/爬虫/7.json数据解析.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/1.连接数据库.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/3.数据库插入数据.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/4.数据库更新操作.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/5.数据库删除操作.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mysql/6.数据库查询操作.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/8.test.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mysql/XTmysql.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="950">
+              <caret line="50" column="12" selection-start-line="49" selection-start-column="17" selection-end-line="50" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>image</find>
+      <find>&lt;img width=&quot;220&quot; height=&quot;282&quot; class=&quot;&quot; data-img=&quot;1&quot; source-data-lazy-img=&quot;&quot; data-lazy-img=&quot;done&quot; src=&quot;//img14.360buyimg.com/n8/jfs/t1/21514/31/10378/448615/5c852f1bEa57deb19/c4375f50c414ff97.jpg&quot;&gt;</find>
+      <find>&lt;img width=&quot;220&quot; height=&quot;282&quot;</find>
+      <find>PDFDocument</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/进程线程/2.进程/8.多进程实现文件拷贝.py" />
+        <option value="$PROJECT_DIR$/进程线程/2.进程/XtProcess.py" />
+        <option value="$PROJECT_DIR$/进程线程/2.进程/9.封装进程对象.py" />
+        <option value="$PROJECT_DIR$/进程线程/2.进程/10.进程监控器.py" />
+        <option value="$PROJECT_DIR$/进程线程/2.进程/10.进程间通信-Queue.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/1.线程.py" />
+        <option value="$PROJECT_DIR$/爬虫提升/1.爬取百度贴吧.py" />
+        <option value="$PROJECT_DIR$/爬虫提升/2.自定义opener.py" />
+        <option value="$PROJECT_DIR$/爬虫提升/3.代理IP.py" />
+        <option value="$PROJECT_DIR$/爬虫提升/4.多个代理.py" />
+        <option value="$PROJECT_DIR$/爬虫提升/5.私密代理.py" />
+        <option value="$PROJECT_DIR$/爬虫提升/6.客户端授权验证.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/2.启动一个线程.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/3.线程间共享数据.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/4.线程锁解决数据混乱.py" />
+        <option value="$PROJECT_DIR$/爬虫/meituan.html" />
+        <option value="$PROJECT_DIR$/爬虫/13.爬取美团.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/5.ThreadLocal.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/6.客户端与服务器数据交互/1.server.py" />
+        <option value="$PROJECT_DIR$/进程线程/QQ聊天/client/server.py" />
+        <option value="$PROJECT_DIR$/进程线程/QQ聊天/server/server.py" />
+        <option value="$PROJECT_DIR$/进程线程/QQ聊天/client/client1.py" />
+        <option value="$PROJECT_DIR$/进程线程/QQ聊天/client/client.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/7.信号量控制线程数量.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/8.凑够一定数量才能执行.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/9.定时线程.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/10.线程通讯.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/11.生产者与消费者.py" />
+        <option value="$PROJECT_DIR$/进程线程/3.线程/12.线程调度.py" />
+        <option value="$PROJECT_DIR$/协程/1.协程.py" />
+        <option value="$PROJECT_DIR$/协程/2.协程原理.py" />
+        <option value="$PROJECT_DIR$/协程/3.数据传输.py" />
+        <option value="$PROJECT_DIR$/协程/4.生产者与消费者.py" />
+        <option value="$PROJECT_DIR$/协程/第二题.py" />
+        <option value="$PROJECT_DIR$/mysql/1.连接数据库.py" />
+        <option value="$PROJECT_DIR$/mysql/2.创建数据库表.py" />
+        <option value="$PROJECT_DIR$/mysql/4.数据库更新操作.py" />
+        <option value="$PROJECT_DIR$/mysql/3.数据库插入数据.py" />
+        <option value="$PROJECT_DIR$/mysql/6.数据库查询操作.py" />
+        <option value="$PROJECT_DIR$/mysql/7.mysql.py" />
+        <option value="$PROJECT_DIR$/mysql/7.XTmysql.py" />
+        <option value="$PROJECT_DIR$/mysql/8.test.py" />
+        <option value="$PROJECT_DIR$/mysql/5.数据库删除操作.py" />
+        <option value="$PROJECT_DIR$/mongodb/1.添加文档.py" />
+        <option value="$PROJECT_DIR$/mongodb/2.查询文档.py" />
+        <option value="$PROJECT_DIR$/mongodb/3.更新文档.py" />
+        <option value="$PROJECT_DIR$/mongodb/4.删除文档.py" />
+        <option value="$PROJECT_DIR$/redis/redis与Python交互.py" />
+        <option value="$PROJECT_DIR$/redis/XTredis.py" />
+        <option value="$PROJECT_DIR$/office文件操作/2.PDF操作/读取PDF文件.py" />
+        <option value="$PROJECT_DIR$/文件操作/处理英文文本.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="239" />
+    <option name="width" value="936" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="爬虫" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象的编程" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="面向对象的编程" type="462c0819:PsiDirectoryNode" />
+              <item name="5.对象的初始状态" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Pythonlearnsoftware/webBots" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\进程线程\3.线程\6.客户端与服务器数据交互" />
+      <recent name="E:\python\office文件操作\8.整蛊小程序" />
+      <recent name="E:\python\tkinter" />
+      <recent name="E:\python\__name__属性" />
+      <recent name="E:\python\模块三" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\python\单元测试\1.对函数进行单元测试" />
+      <recent name="E:\python\office文件操作\6.音乐播放器" />
+      <recent name="E:\python\office文件操作\5.写ppt" />
+      <recent name="E:\python\office文件操作\1.读写CSV文件" />
+      <recent name="E:\python\tkinter\实例一：treeFile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.处理英文文本">
+    <configuration name="处理英文文本" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件操作/处理英文文本.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="读取PDF文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/office文件操作/2.PDF操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/office文件操作/2.PDF操作/读取PDF文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="写文件" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/文件操作" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/文件操作/写文件.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pdf2txt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Scripts/pdf2txt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="setup" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/pdfminer.six-master" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/pdfminer.six-master/setup.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.处理英文文本" />
+        <item itemvalue="Python.读取PDF文件" />
+        <item itemvalue="Python.pdf2txt" />
+        <item itemvalue="Python.setup" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="792006bf-212c-4d45-bfed-dff6206fd969" name="Default Changelist" comment="" />
+      <created>1551095108615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551095108615</updated>
+      <workItem from="1552309762992" duration="3000" />
+      <workItem from="1552310112687" duration="131000" />
+      <workItem from="1552310280111" duration="2268000" />
+      <workItem from="1552316090851" duration="628000" />
+      <workItem from="1552365198271" duration="6011000" />
+      <workItem from="1552424815256" duration="5652000" />
+      <workItem from="1552494124820" duration="8375000" />
+      <workItem from="1552558072092" duration="7315000" />
+      <workItem from="1552565710571" duration="1457000" />
+      <workItem from="1552847861039" duration="5225000" />
+      <workItem from="1552857671720" duration="133000" />
+      <workItem from="1552857922826" duration="2114000" />
+      <workItem from="1552934611127" duration="11405000" />
+      <workItem from="1553032472550" duration="6593000" />
+      <workItem from="1553130506080" duration="6147000" />
+      <workItem from="1553150572686" duration="8795000" />
+      <workItem from="1553229251271" duration="6505000" />
+      <workItem from="1553314595927" duration="7735000" />
+      <workItem from="1553395661183" duration="3939000" />
+      <workItem from="1553493333050" duration="1473000" />
+      <workItem from="1553568390191" duration="9752000" />
+      <workItem from="1553592529775" duration="2354000" />
+      <workItem from="1553665018039" duration="4937000" />
+      <workItem from="1553834899770" duration="4514000" />
+      <workItem from="1553857496304" duration="2613000" />
+      <workItem from="1553925351194" duration="561000" />
+      <workItem from="1553964263497" duration="3975000" />
+      <workItem from="1554011897063" duration="5316000" />
+      <workItem from="1554086991218" duration="3030000" />
+      <workItem from="1554159738205" duration="3868000" />
+      <workItem from="1554226692908" duration="5149000" />
+      <workItem from="1554274452551" duration="1751000" />
+      <workItem from="1554307367176" duration="8271000" />
+      <workItem from="1554511597783" duration="2871000" />
+      <workItem from="1554530967613" duration="5621000" />
+      <workItem from="1554598048901" duration="4262000" />
+      <workItem from="1554630010657" duration="1486000" />
+      <workItem from="1554730642045" duration="987000" />
+      <workItem from="1554794646324" duration="90000" />
+      <workItem from="1554879526959" duration="1481000" />
+      <workItem from="1554881777459" duration="1589000" />
+      <workItem from="1554912227971" duration="4223000" />
+      <workItem from="1554916553923" duration="30000" />
+      <workItem from="1554916771722" duration="288000" />
+      <workItem from="1554942569476" duration="775000" />
+      <workItem from="1555020390952" duration="1489000" />
+      <workItem from="1555063958585" duration="820000" />
+      <workItem from="1555116558025" duration="653000" />
+      <workItem from="1556171894334" duration="3850000" />
+      <workItem from="1556298458468" duration="130000" />
+      <workItem from="1556610070546" duration="499000" />
+      <workItem from="1557971700502" duration="745000" />
+      <workItem from="1559027201504" duration="53000" />
+      <workItem from="1559121442282" duration="1265000" />
+      <workItem from="1559162147367" duration="994000" />
+      <workItem from="1559164177328" duration="16000" />
+      <workItem from="1559348219821" duration="524000" />
+      <workItem from="1559349261148" duration="844000" />
+      <workItem from="1559623916872" duration="604000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_myTest_Test_test_getAge - 2019.03.19 at 15h 07m 19s.xml">
+      <configuration name="Unittests for myTest.Test.test_getAge" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_myTest_Test_test_getAge - 2019.03.19 at 15h 07m 46s.xml">
+      <configuration name="Unittests for myTest.Test.test_getAge" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_mySun - 2019.03.19 at 15h 15m 07s.xml">
+      <configuration name="Doctest mySun" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_mySun - 2019.03.19 at 15h 15m 29s.xml">
+      <configuration name="Doctest mySun" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_mySun - 2019.03.19 at 15h 15m 33s.xml">
+      <configuration name="Doctest mySun" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_mySun - 2019.03.19 at 15h 15m 36s.xml">
+      <configuration name="Doctest mySun" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctest_mySun - 2019.03.19 at 15h 15m 42s.xml">
+      <configuration name="Doctest mySun" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_文档测试 - 2019.03.19 at 15h 15m 58s.xml">
+      <configuration name="Doctests in 文档测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_文档测试 - 2019.03.19 at 15h 16m 35s.xml">
+      <configuration name="Doctests in 文档测试" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Doctests_in_文档测试 - 2019.03.19 at 15h 16m 44s.xml">
+      <configuration name="Doctests in 文档测试" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="184184000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="239" y="0" width="936" height="735" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32762557" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.049099836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7836611" weight="0.4135021" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.1814346" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.21633889" side_tool="true" weight="0.20949264" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33825943" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.049099836" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7836611" visible="true" weight="0.42105263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3305648" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3372093" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.21633889" side_tool="true" weight="0.20949264" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Docker" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="R Graphics" order="3" />
+      <window_info anchor="right" id="R Packages" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/进程线程/3.线程/12.线程调度.py" />
+    <entry file="file://$PROJECT_DIR$/协程/1.协程.py" />
+    <entry file="file://$PROJECT_DIR$/协程/2.协程原理.py" />
+    <entry file="file://$PROJECT_DIR$/协程/3.数据传输.py" />
+    <entry file="file://$PROJECT_DIR$/协程/4.生产者与消费者.py" />
+    <entry file="file://$PROJECT_DIR$/协程/第二题.py" />
+    <entry file="file://$PROJECT_DIR$/mongodb/2.查询文档.py" />
+    <entry file="file://$PROJECT_DIR$/mongodb/1.添加文档.py" />
+    <entry file="file://$PROJECT_DIR$/mongodb/3.更新文档.py" />
+    <entry file="file://$PROJECT_DIR$/mongodb/4.删除文档.py" />
+    <entry file="file://$PROJECT_DIR$/redis/XTredis.py" />
+    <entry file="file://$PROJECT_DIR$/redis/redis与Python交互.py" />
+    <entry file="file://$PROJECT_DIR$/office文件操作/2.PDF操作/03.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/pdfminer.six-master/setup.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Scripts/pdf2txt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="678">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pdfminer/pdfinterp.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pdfminer/pdfdocument.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/site-packages/pdfminer/pdfparser.py" />
+    <entry file="file://$PROJECT_DIR$/office文件操作/2.PDF操作/读取PDF文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式/1.判断手机号码.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/2.创建数据库表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/包/包.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/xutao.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式/5.re模块深入.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/模块/使用自定义模块.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/读文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1273">
+          <caret line="67" column="20" selection-start-line="22" selection-end-line="67" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式/2.正则概述.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式/3.re模块简介.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1140" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1641520659/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="4986" column="51" lean-forward="true" selection-start-line="4986" selection-start-column="51" selection-end-line="4986" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="199334" selection-start-column="199334" selection-end-column="199570" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/正则表达式/4.正则表达式的元字符.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="36" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/处理英文文本.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="112" selection-start-line="10" selection-start-column="112" selection-end-line="10" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/Anna Karenina.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/文件操作/写文件.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试/2.对类进行单元测试/myTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试/2.对类进行单元测试/person.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/单元测试/2.对类进行单元测试/对类进行单元测试.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的编程/1.第一个Python类/第一个Python类.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的编程/2.使用类来实例化对象/实例化对象.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-424" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的编程/3.self的意义/self.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-462" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的编程/4.析构函数/析构函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/面向对象的编程/5.对象的初始状态/对象的初始状态.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/1.urllib爬取网页.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/爬虫/7.json数据解析.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/1.连接数据库.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/3.数据库插入数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/4.数据库更新操作.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/5.数据库删除操作.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/8.test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/XTmysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="50" column="12" selection-start-line="49" selection-start-column="17" selection-end-line="50" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mysql/6.数据库查询操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
